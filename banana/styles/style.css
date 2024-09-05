@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(0, 255, 13, 0.6);
+}
+    ul {
+    display: inline;
+}
+    ul li {
+    display: inline;
+}
+/* https://developer.mozilla.org/ru/docs/Web/CSS/Comments */
